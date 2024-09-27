@@ -106,7 +106,6 @@ Parameter or Statistic:
 Now, the result I get from the sample is a statistic because it's derived from a sample of the entire population, not the actual full population (which would make it a parameter). A parameter refers to the true average height of all males on Earth, which is usually unknown. The statistic serves as an estimate of this parameter. Therefore, the average height from the sample is used to infer the population paramete
 7. X = [4.5, 6.2, 7.3, 9.1, 10.4, 11] (dataset)
 Ans :- Z score = (X - μ ) / σ
-
 here x is element of dataset X
 μ is mean of dataset X
 σ is standard deviation of dataset X
